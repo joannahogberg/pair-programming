@@ -40,4 +40,4 @@ function bankWithdrawl() {
 
 bankWithdrawl();
 
-KOD SOM STÄLLER TILL DET
+KOD SOM ÄR GRYM!
