@@ -39,3 +39,5 @@ function bankWithdrawl() {
 } //end func
 
 bankWithdrawl();
+
+KOD SOM ÄR GRYM!
