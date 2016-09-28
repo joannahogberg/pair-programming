@@ -39,3 +39,5 @@ function bankWithdrawl() {
 } //end func
 
 bankWithdrawl();
+
+console.log("Ändring");
