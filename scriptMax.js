@@ -40,4 +40,4 @@ function bankWithdrawl() {
 
 bankWithdrawl();
 
-console.log("Ändring");
+console.log("GIT TAG");
