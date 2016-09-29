@@ -40,6 +40,4 @@ function bankWithdrawl() {
 
 bankWithdrawl();
 
-console.log("ÄNDRINGAAAAAAAAAR");
-
-HIHIHIHIHIHIHIHHIOAWWAOIFAÖOWIFwioöfnaoöwfnwa
+Övning1
