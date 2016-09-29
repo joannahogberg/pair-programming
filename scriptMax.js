@@ -40,4 +40,6 @@ function bankWithdrawl() {
 
 bankWithdrawl();
 
-KOD SOM ÄR GRYM!
+console.log("ÄNDRINGAAAAAAAAAR");
+
+HIHIHIHIHIHIHIHHIOAWWAOIFAÖOWIFwioöfnaoöwfnwa
